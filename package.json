@@ -1,5 +1,5 @@
 {
-  "name": "vue-tabbed-interface-without-keep-alive",
+  "name": "vue-tabbed-interface",
   "version": "0.1.0",
   "private": true,
   "scripts": {
